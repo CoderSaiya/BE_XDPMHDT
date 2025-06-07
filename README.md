@@ -1,6 +1,7 @@
 # Freelance Marketplace
 
 ![Use Case Model](./use-case.png)
+![Diagram](./diagram.jpg)
 
 Freelance Marketplace là một nền tảng trực tuyến kết nối các freelancer với khách hàng có nhu cầu thuê dịch vụ. Hệ thống này giúp quá trình hợp tác trở nên an toàn, minh bạch và hiệu quả, từ việc đăng dự án, tuyển chọn freelancer, đến thanh toán và đánh giá.
 
